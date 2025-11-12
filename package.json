@@ -8,7 +8,10 @@
     "start": "next start"
   },
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^5.1.0",
+    "framer-motion": "^12.23.24",
+    "mongoose": "^8.19.3",
     "next": "15.5.4",
     "react": "19.1.0",
     "react-circular-progressbar": "^2.2.0",
@@ -23,5 +26,13 @@
   "main": "index.js",
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alyamonci/project_tasklite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alyamonci/project_tasklite/issues"
+  },
+  "homepage": "https://github.com/alyamonci/project_tasklite#readme"
 }
