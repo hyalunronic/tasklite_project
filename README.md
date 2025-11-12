@@ -158,7 +158,6 @@ Or any platform of your choice like Netlify or Render.
 
 video recordings
 
-https://screenrec.com/share/Po8VmMxUnB
 
 👩‍💻 Developer
 
